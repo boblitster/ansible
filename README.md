@@ -1,3 +1,3 @@
 # ansible
 
-Ansible innstall instructions 
+Ansible install instructions 
